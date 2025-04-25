@@ -23,7 +23,7 @@ Check out the third party software **necessary** for this pack at: [SpkToolbar r
 - A Redraw() method is available to force a redraw, since its controls are rendered using an extended cycle of LCL paint.
 - The controls are very simple with few options and properties.
 - Some controls are limited in 22 pixels for height and auto sized, like buttons(according caption).
-- All design project is according with the SpkToolbar features and result in a cohesive themed controls.
+- The design project is according with the SpkToolbar features and result in a cohesive themed controls.
 
 ## 🎨 Container controls
 We use a well defined controls to embbed complex controls. Some LCL controls are able to be modified with custom colors, for this kind of control we use a container to receive the control and auto set the colors at design-time. The controls that has \*Container must receive the control indicated by the prefix, like `TSpkTreeViewContainer` for TTreeview. To use that just put inside container at design-time and change all properties of interest.
