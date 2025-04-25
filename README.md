@@ -38,4 +38,4 @@ There are some options for the controls. Any option or control variables are loc
 This package is NOT part of **SpkToolbar** component. This software is NOT made by the same author(s) of **SpkToolbar**, and port version for Lazarus.
 
 ## ☀️ License
-This software is released under Modified LGPL (with linking exception, same of LCL). This is a free software, inclusive for comercial use and modifications under the license terms. See the file “license.txt”.
+This software is released under Modified LGPL (with linking exception, same of LCL). This is a free software, inclusive for commercial use and modifications under the license terms. See the file “license.txt”.
