@@ -32,7 +32,10 @@ We use a well defined controls to embbed complex controls. Some LCL controls are
 There are some options for the controls. Any option or control variables are located at the file `SpkOptions.inc`. Remember to recompile the entire package if you change any variable or constant.
 
 ## ⌨️ Copyright notice
-© 2025 Humberto Teófilo, All Rights Reserved.   
+© 2025 Humberto Teófilo, All Rights Reserved.  
+
+## 🚨 Disambiguation
+This package is NOT part of **SpkToolbar** component. This software is NOT made by the same author(s) of **SpkToolbar**, and port version for Lazarus.
 
 ## ☀️ License
 This software is released under Modified LGPL (with linking exception, same of LCL). This is a free software, inclusive for comercial use and modifications under the license terms. See the file “license.txt”.
