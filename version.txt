@@ -1,0 +1,1 @@
+0.1.1 - First public release, tested and compatible with SpkToolbar V0.1.7 required package.

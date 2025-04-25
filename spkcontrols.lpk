@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="5">
+    <Name Value="SpkControls"/>
+    <Type Value="RunAndDesignTime"/>
+    <Author Value="Humberto Teófilo"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <SearchPaths>
+        <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+    </CompilerOptions>
+    <Description Value="Themed controls for use with SpkToolbar package."/>
+    <License Value="Modified LGPL (with linking exception)."/>
+    <Version Minor="1" Release="1"/>
+    <Files>
+      <Item>
+        <Filename Value="SpkCtrls.pp"/>
+        <AddToUsesPkgSection Value="False"/>
+        <UnitName Value="SpkCtrls"/>
+      </Item>
+      <Item>
+        <Filename Value="SpkContainers.pp"/>
+        <AddToUsesPkgSection Value="False"/>
+        <UnitName Value="SpkContainers"/>
+      </Item>
+      <Item>
+        <Filename Value="SpkCtrlsReg.pp"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="SpkCtrlsReg"/>
+      </Item>
+    </Files>
+    <RequiredPkgs>
+      <Item>
+        <PackageName Value="SpkToolbarPackage"/>
+      </Item>
+      <Item>
+        <PackageName Value="FCL"/>
+      </Item>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>

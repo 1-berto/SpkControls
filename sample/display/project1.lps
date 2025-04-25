@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="107"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <TopLine Value="38"/>
+        <CursorPos X="26" Y="55"/>
+        <UsageCount Value="107"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\SpkCtrls.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1605"/>
+        <CursorPos X="31" Y="1630"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\SpkLabels.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="96"/>
+        <CursorPos Y="169"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="27" Y="209"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1149"/>
+        <CursorPos X="15" Y="1163"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkCtrls.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="62" Y="3"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\CustomSpkControl.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="45" Y="13"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkContainers.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\spktoolbar\SpkToolbar\spkt_Const.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="182"/>
+        <CursorPos X="3" Y="200"/>
+        <UsageCount Value="19"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkExpander.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="26" Y="48"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkGroups.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="27" Y="76"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkCtrlsAux.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="42" Y="28"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\spktoolbar\SpkMath\SpkMath.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="87"/>
+        <CursorPos X="3" Y="104"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkSwitch.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="10" Y="65"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkCombobox.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="33" Y="466"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2268"/>
+        <CursorPos Y="2285"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkListbox.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="78" Y="38"/>
+        <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\dbgrids.pas"/>
+        <UnitName Value="DBGrids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="558"/>
+        <CursorPos X="3" Y="323"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="181"/>
+        <CursorPos X="3" Y="198"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkStatusbar.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6" Y="57"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\lclplatformdef.pas"/>
+        <UnitName Value="LCLPlatformDef"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="36"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\lazutils\laz_avl_tree.pp"/>
+        <UnitName Value="Laz_AVL_Tree"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\lclintf.pas"/>
+        <UnitName Value="LCLIntf"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="190"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\lclintf.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="505"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkButtons.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="15" Y="127"/>
+        <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkTracks.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="457"/>
+        <CursorPos X="70" Y="466"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkSideTool.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="26" Y="43"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="315"/>
+        <CursorPos X="10" Y="332"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-image\src\fpcanvas.pp"/>
+        <UnitName Value="FPCanvas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="35" Y="111"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\lcl_defines.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\graphutil.pp"/>
+        <UnitName Value="GraphUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkOptions.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="90" Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\spktoolbar\SpkGUITools\SpkGUITools.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="360"/>
+        <CursorPos X="21" Y="128"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\SpkControlsPro\SpkCtrls.Pro.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="16" Y="130"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\AppData\Local\Temp\ca3ffb71-9146-42dc-8895-8cc14892d0c3_AresRegular246_082217.zip.0c3\AresRegular246_082217\DHT\dhtsearch.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\spktoolbar\SpkToolbar\SpkToolbar.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\SpkControlsPro\SpkTabControl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="299"/>
+        <CursorPos X="24"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkCards.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="3" Y="14"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkCtrlsReg.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="5"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\code\projetos\codepoints\unit1.pp"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\ImageFont\imgfont.pp"/>
+        <UnitName Value="ImgFont"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="249"/>
+        <CursorPos X="17" Y="212"/>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\code\projetos\md3\md.controls.pp"/>
+        <UnitName Value="MD.Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos X="58" Y="40"/>
+        <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\basic_color.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="31" Y="86"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\code\projetos\md3\mdiconslist.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="158"/>
+        <CursorPos X="22" Y="165"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\ImageFont\fontimagelist.pp"/>
+        <UnitName Value="FontImageList"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="307"/>
+        <CursorPos X="3" Y="110"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\code\projetos\codepoints\unit1.lfm"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\uxdesign\uxdesign.pp"/>
+        <UnitName Value="UXDesign"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\SpkUpDown.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="245"/>
+        <CursorPos X="29" Y="268"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="7924"/>
+        <CursorPos X="12" Y="7864"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_ani.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="160"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_utils.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="292"/>
+        <CursorPos X="10" Y="52"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="9757"/>
+        <CursorPos X="31" Y="9564"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_objects.pas"/>
+        <EditorIndex Value="8"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\Desktop\DrawObjects\Source\DrawObjectsExtended.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\humbe\Desktop\DrawObjects\Source\DrawObjectsBase.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="2544"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="3965" Column="27" TopLine="3938"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="3992" Column="27" TopLine="3965"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4011" Column="25" TopLine="3984"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4072" Column="21" TopLine="4045"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4095" Column="25" TopLine="4068"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4114" Column="21" TopLine="4087"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4126" Column="27" TopLine="4099"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4230" Column="25" TopLine="4203"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4382" Column="32" TopLine="4355"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4585" Column="25" TopLine="4558"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4684" Column="51" TopLine="4657"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4686" Column="29" TopLine="4659"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4815" Column="23" TopLine="4788"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="4834" Column="27" TopLine="4807"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="5043" Column="30" TopLine="5015"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="5082" Column="21" TopLine="5054"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="5106" Column="22" TopLine="5079"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="5116" Column="45" TopLine="5089"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="5117" Column="14" TopLine="5090"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\beditor\converted\Source\BCEditor.Editor.Base.pas"/>
+        <Caret Line="7796" Column="32" TopLine="7768"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_objects.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="1233" Column="27" TopLine="1218"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="1696" Column="29" TopLine="1670"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="1866" Column="18" TopLine="1838"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="1872" Column="31" TopLine="1850"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="6333" Column="39" TopLine="6305"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="8251" Column="39" TopLine="8235"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="8258" Column="42" TopLine="8235"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\dxlic442\dx_scene.pas"/>
+        <Caret Line="9548" Column="31" TopLine="9524"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\humbe\Desktop\DrawObjects\Source\DrawObjectsExtended.pas"/>
+        <Caret TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
